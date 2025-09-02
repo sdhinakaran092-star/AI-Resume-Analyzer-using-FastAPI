@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+illama-index
+openai
+python-dotenv
