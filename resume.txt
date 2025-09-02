@@ -1,0 +1,66 @@
+DHINAKARAN S
+ Chennai | sdhinakaran092@gmail.com | 95853 61579 | | linkedin.com/in/dhinakaran-s-52a67437a |
+ SUMMARY
+ Analytical and motivated Python Developer with over 2.5 years of experience in designing and troubleshooting
+ applications using Flask, Django, and MySQL. Proficient in leveraging advanced development skills to enhance
+ applications, while demonstrating a commitment to continuous learning and staying updated with the latest
+ technologies in software development.
+ Education
+ St. Joseph’s College Trichy, B.Sc Computer Science
+ • GPA: 6.9
+ June 2018– May 2021
+ • Coursework: Computer Science, Database Management, Web Development, Data Structures, Algorithms,Cloud
+ Computing
+ St.Joseph’s College Trichy, M.Sc Computer Science
+ • GPA: 7.0
+ June 2021– May 2023
+ • Coursework: Machine Learning, Cloud Computing, Advanced Algorithms, Distributed Systems, Cybersecurity,
+ Artificial Intelligence, Big Data Analytics
+ TECHNICAL SKILLS
+ • Languages: Python
+ • Web Frameworks: Django, Flask, FastAPI
+ • Databases: MySQL, SQLAlchemy, SQLite
+ • Cloud and Tools: AWS, Docker (basics), Postman
+ • Data Handling: pandas, NumPy
+ • Version Control: Git, GitHub
+ • Technologies: HTML, CSS, JavaScript, Bootstrap, React.js, REST API
+ Experience
+ Software Engineer, UNIQ TECHNOLOGIES Chennai
+ Jan 2023 Present
+ • Led development of a scalable Microservices-based architecture, improving system performance and reducing
+ downtime.
+ • Designed and developed over 20 high-performance REST APIs, improving system efficiency.
+ • Enhanced SQL query performance,reducing data retrieval time and optimizing database load during peak usage
+ periods.
+ • Conducted comprehensive unit testing using unittest for 100+ test cases, improving code reliability and
+ reducing post-deployment defects.
+ • Played a key role in system monitoring and troubleshooting contributing to a reduction in the time to identify
+ and resolve production issues.
+ Projects
+ Flexi-DMS– Distribution Management System
+ • Tools: Django Rest Framework, React, Pandas, Tally/Busy Integration, JSON,Datadog
+ • Developed a web-based Distribution Management System to streamline supply chain and inventory operations
+ for consumer goods companies.
+ • Integrated with Tally and Busy accounting software for automated data synchronization every 15 minutes
+ via background tasks using JSON.
+ • Implemented user authentication with unique distributor credentials and supplier mapping to manage
+ multi-supplier environments.
+• Built features for invoice generation, balance sheets, billing, and GST reporting with real-time data sync to a
+ central Django server.
+ • Utilized Pandas to generate dynamic financial reports (daily, monthly, yearly).
+ • Enabled seamless front-end interaction using React and ensured high data consistency and reliability across
+ platforms.
+ INSURE– Warranty AMC Management System
+ • Tools: Django, MySQL, Pandas, Twilio
+ • Built a web-based system to manage warranties and Annual Maintenance Contracts (AMCs) for home
+ appliances.
+ • Implemented modules for user accounts, product tracking, policy renewals and notifications, and detailed
+ reporting.
+ • Enabled timely alerts for expiring warranties using Twilio SMS API.
+ • Used pandas for generating analytical reports and MySQL for secure data storage.
+ • Enhanced asset organization and reduced unexpected repair costs through efficient lifecycle management
+
+
+
+ruban about:
+ruban is a one of the loosu pun** and also he is a psycho
